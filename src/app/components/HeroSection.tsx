@@ -1,4 +1,4 @@
-import profileImage from "figma:asset/78db2207339e906f74ba2ba61f94633a9c8b0810.png";
+<img src="/gambar.png" alt="Profile" />
 
 export function HeroSection() {
   return (
@@ -8,7 +8,7 @@ export function HeroSection() {
       style={{ background: 'linear-gradient(to right, #4988C4, #1A3263)' }}
     >
       <div className="absolute inset-0 bg-black opacity-10"></div>
-      
+    
       <div className="container mx-auto px-4 py-20 relative z-10">
         <div className="flex flex-col lg:flex-row items-center gap-12 max-w-6xl mx-auto">
           {/* Foto Profil - Kiri */}
