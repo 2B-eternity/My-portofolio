@@ -15,7 +15,7 @@ export function HeroSection() {
           <div className="lg:w-1/3">
             <div className="w-64 h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl">
               <img
-                src={profileImage}
+                src="/gambar.png"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
