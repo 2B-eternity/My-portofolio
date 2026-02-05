@@ -64,7 +64,7 @@ export function EducationSection() {
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <h4 className="text-gray-900 mb-2">Anggota FSI Alfatih</h4>
-                  <p className="text-gray-700 text-sm">2023 - Sekarang</p>
+                  <p className="text-gray-700 text-sm">2024 - Sekarang</p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-sm">
                   <h4 className="text-gray-900 mb-2">Anggota Newgame</h4>
